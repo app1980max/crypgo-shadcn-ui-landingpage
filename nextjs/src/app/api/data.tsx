@@ -67,7 +67,7 @@ export const pricedata: {
     short: "SOL/USD",
     icon: "/images/icons/icon-solana.svg",
     background: "bg-secondary/15",
-    price: "$142.83",
+    price: "$100.83",
     mark: "$259.96 (-8.2%)",
     width: 24,
     height: 24,
