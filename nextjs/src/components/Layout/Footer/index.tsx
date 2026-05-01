@@ -15,8 +15,8 @@ const Footer: FC = () => {
           <div className="lg:col-span-4 md:col-span-6 col-span-6 flex flex-col gap-6">
             <Logo />
             <p className="text-white/60">
-              Transform your crypto business with Crypgo Framer, a template for
-              startups and blockchain services.
+              Launch and scale your crypto business with Crypterio Framer, the ultimate services for blockchain startups and innovators.
+
             </p>
             <div className="flex gap-6 items-center relative z-1">
               <Link href="https://www.facebook.com/" className="group">
