@@ -6,4 +6,5 @@ export const headerData: HeaderItem[] = [
   { label: "Services", href: "/#portfolio" },
   { label: "Why Crypgo", href: "/#upgrade" },
   { label: "FAQs", href: "/#faq" },
+  { label: "Test", href: "/#test" },
 ];
