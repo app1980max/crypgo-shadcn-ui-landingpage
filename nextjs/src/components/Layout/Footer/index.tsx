@@ -101,13 +101,13 @@ const Footer: FC = () => {
         </div>
         <Separator className="bg-white/10" />
         <p className="text-white/40 text-center py-8">
-          Design & Develop by Yevgeni Shapiro{" "}
-          /<Link
+          Designed by Yevgeni Shapiro {" "}
+          <Link
             className="hover:text-primary"
             target="_blank"
             href={"https://crypterio.co/"}
           >
-            shadcnspace.com
+            crypterio.co
           </Link>
         </p>
       </div>
