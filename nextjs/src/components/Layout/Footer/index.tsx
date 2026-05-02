@@ -101,13 +101,13 @@ const Footer: FC = () => {
         </div>
         <Separator className="bg-white/10" />
         <p className="text-white/40 text-center py-8">
-          Designed by  {" "}
+          © 2026 Crypterio LLC, Company | 
           <Link
             className="hover:text-primary"
             target="_blank"
             href={"https://crypterio.co/"}
           >
-            crypterio.co | Yevgeni Shapiro
+            Crypterio.co
           </Link>
         </p>
       </div>
