@@ -6,7 +6,7 @@ on:
     paths:
       - "nextjs/**"
       - "Dockerfile"
-      - ".github/workflows/docker-build.yml"
+      - "deploy/**"
   pull_request:
     branches: [ "main" ]
 
