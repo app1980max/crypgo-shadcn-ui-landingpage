@@ -102,12 +102,13 @@ const Footer: FC = () => {
         <Separator className="bg-white/10" />
         <p className="text-white/40 text-center py-8">
           © 2026 Crypterio LLC, All rights reserved 
+          
           <Link
             className="hover:text-primary"
             target="_blank"
             href={"https://crypterio.co/"}
           >
-           | Designed by Crypterio.co
+           Designed by Crypterio.co
           </Link>
         </p>
       </div>
